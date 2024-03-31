@@ -13,7 +13,7 @@ Acknowledgments
 
 ## Dataset
 
-The dataset (flavour.csv) used in this project comprises three columns: Age, Gender, and Flavour. It includes information on age, gender, and the corresponding preferred flavor for a sample of individuals.
+The dataset "flavour.csv" used in this project comprises three columns: Age, Gender, and Flavour. It includes information on age, gender, and the corresponding preferred flavor for a sample of individuals.
 
 ## Requirements
 
