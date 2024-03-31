@@ -4,13 +4,6 @@
 
 Welcome to the Flavor Predictor Project! This repository contains code for a machine learning project focused on predicting preferred flavors based on age and gender inputs. Leveraging Python's pandas and scikit-learn libraries, I built a decision tree classifier to recommend flavors tailored to individual profiles.
 
-## Table of Contents
-
-Dataset
-Requirements
-Results
-Acknowledgments
-
 ## Dataset
 
 The dataset "flavour.csv" used in this project comprises three columns: Age, Gender, and Flavour. It includes information on age, gender, and the corresponding preferred flavor for a sample of individuals.
